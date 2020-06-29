@@ -5,13 +5,13 @@ h1
 .myimage{
   height: 400px;
 }
-.steve{
+.gee{
   background-image: url("https://bit.ly/2OmxXuI");
   background-size: cover;
   height: 50vh;
   
 }
-.ongati{
+.odoyo{
   position: absolute;
   top: 30%;
   left: 50%;
@@ -19,7 +19,7 @@ h1
   color: #ffffff;
 
 }
-.ongati h1{
+.odoyo h1{
   color: white;
   
 }
