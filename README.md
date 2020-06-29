@@ -34,3 +34,6 @@
 ## KNOWN BUGS
 - No known bugs, if you encounter any, feel free to contact me.
 
+## LICENSE
+- MIT License (c) Gallery kenya 2020
+
