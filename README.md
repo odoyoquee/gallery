@@ -26,6 +26,7 @@
  `$ python3.6 manage.py runserver`
 
 ##  Github livelink
+https://hudson-donair-05500.herokuapp.com/
 
 ## CONTACTS 
 - Email:odoyograce23@gmail.com
