@@ -36,5 +36,5 @@ https://hudson-donair-05500.herokuapp.com/
 - No known bugs, if you encounter any, feel free to contact me.
 
 ## LICENSE
-- MIT License (c) Gallery kenya 2020
+- [MIT LICENSE](https://github.com/odoyoquee/gallery/blob/master/license.md)
 
